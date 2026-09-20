@@ -413,12 +413,12 @@ Gerenciamento de Projetos | PMO | Transformação Operacional
   </tr>
   <tr>
     <td width="140" valign="middle" align="center">
-      <img src="assets/geek-note-facilities.png" width="120" alt="Mascote geek de Facilities com capacete, colete e prancheta" />
+      <img src="assets/geek-note-facilities.png" width="120" alt="Octocat inspirado em Optimus Prime, com armadura robótica e tentáculos mecânicos" />
     </td>
     <td valign="middle" align="center">
-      <strong>Nem toda missão é construir uma nova base.<br>
-      Às vezes, o desafio é desativá-la<br>
-      sem deixar pessoas, ativos ou pendências para trás. 🛠️</strong>
+      <strong>Eu sou Optimus Prime, líder dos Autobots.<br>
+      Mudamos de forma, mudamos de base, mas a missão continua —<br>
+      e nenhum ativo, pessoa ou responsabilidade fica para trás.</strong>
     </td>
   </tr>
 </table>
