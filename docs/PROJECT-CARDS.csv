@@ -1,0 +1,15 @@
+card,iniciativa,workstream,tipo,risco_historico,dependencia_externa,marco,status
+Estruturar governança e responsabilidades,Ambas,Governança,Governança,Médio,Não,Estruturação,Concluído
+Planejar desmobilização dos escritórios,Workplace Consolidation,Facilities,Entrega,Médio,Sim,Estruturação,Concluído
+Garantir continuidade das equipes no novo espaço,Workplace Consolidation,Workplace,Dependência,Alto,Sim,Transição,Concluído
+Implantar governança de reservas para Flexoffice,Workplace Consolidation,Workplace,Entrega,Médio,Sim,Transição,Concluído
+Coordenar regularizações e licenças,Workplace Consolidation,Legal,Dependência,Alto,Sim,Regularização,Concluído
+Inventariar e destinar ativos,Facility Decommissioning,Ativos,Entrega,Alto,Não,Desmobilização,Concluído
+Preparar área segregada no site de destino,Facility Decommissioning,Facilities,Entrega,Médio,Não,Desmobilização,Concluído
+Desmobilizar infraestrutura de TI e redes,Facility Decommissioning,Tecnologia,Entrega,Alto,Não,Desmobilização,Concluído
+Desmobilizar segurança e infraestrutura de apoio,Facility Decommissioning,Tecnologia,Entrega,Médio,Não,Desmobilização,Concluído
+Encerrar contratos de fornecedores,Facility Decommissioning,Fornecedores,Entrega,Alto,Sim,Desmobilização,Concluído
+Executar reparos e obras de reversão,Facility Decommissioning,Facilities,Entrega,Alto,Sim,Vistoria,Concluído
+Formalizar Change Request após vistoria final,Facility Decommissioning,Financeiro,Change Request,Alto,Sim,Vistoria,Concluído
+Concluir devolução física do imóvel,Facility Decommissioning,Encerramento,Encerramento,Alto,Sim,Encerramento,Concluído
+Registrar pendência contratual residual,Facility Decommissioning,Encerramento,Decisão,Médio,Sim,Encerramento,Concluído
